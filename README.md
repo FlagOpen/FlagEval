@@ -7,6 +7,15 @@
 
 FlagEval, launched by BAAI in 2023, is a comprehensive large model evaluation system that encompasses over 800 open-source and closed-source models from around the globe. It features more than 40 capability dimensions, including reasoning, mathematical skills, and task-solving abilities, along with five major tasks and four categories of metrics.
 
+## 🧠 FlagEval Report
+作者：[FlagEval](<https://flageval.baai.ac.cn/>) 
+
+The FlagEval Report series provides in-depth insights into the evolving landscape of large-scale model evaluation. Each issue delivers a comprehensive analysis of model capabilities across diverse tasks and metrics, enabling researchers and developers better to understand the strengths and limitations of leading AI models.
+
+**Issue 2 (2024-12-30 Updated)** [pdf](<https://github.com/flageval-baai/FlagEval/blob/master/AI_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F%20%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf>)
+
+**Issue 1 (2024-07-13 Updated)** [pdf](<https://github.com/FlagOpen/FlagEval/blob/master/AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F.pdf>) 
+
 
 ## 🌟 FlagEval Core
 
